@@ -2,7 +2,7 @@
 
 
 # MrBlackEye
-## _______________ Description ________________
+## ________ Description ________
 MrBlackEye DDos Script - Description
 
 The **MrBlackEye DDos Script** is a powerful tool designed for testing the resilience of web servers against Distributed Denial of Service (DDoS) attacks. Created with the intention of simulating high traffic loads, this script is useful for network administrators and security professionals who wish to stress-test their server's capacity and performance under extreme conditions.
